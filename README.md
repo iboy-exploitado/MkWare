@@ -1,5 +1,5 @@
 # MkWare
-Um malware onde cria varias pastas no mesmo diretorio.
+Um script onde cria varias pastas no mesmo diretorio.
 Obs > Funciona em Linux e Windows.
 
 Requesistos: python3 
