@@ -10,13 +10,13 @@ print("""
 ██║ ╚═╝ ██║██║  ██╗╚███╔███╔╝██║  ██║██║  ██║███████╗
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
                                                      
-Desenvolvido by >> Iboy
-Telegram >> @iboynerd
-Discord >> Iboy #3048
-Malware para fins educacionais.
+Desenvolvido by >> IboySec
+Telegram >> @iboy_w
+Discord >> iboy #3048
+Script para fins educacionais.
 	""")
 
-decisao = str(input("Esse Malware irá criar varias pastas. S/N: "))
+decisao = str(input("Com a execução deste código ele irá criar varias pastas. S/N: "))
 if decisao=='s':
 	while True:
 	    ran = random.randint(10,55)
