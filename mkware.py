@@ -10,7 +10,7 @@ print("""
 ██║ ╚═╝ ██║██║  ██╗╚███╔███╔╝██║  ██║██║  ██║███████╗
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
                                                      
-Desenvolvido by >> IboySec
+Desenvolvido by >> IboyDev
 Telegram >> @iboy_w
 Discord >> iboy #3048
 Script para fins educacionais.
